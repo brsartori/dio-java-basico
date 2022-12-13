@@ -4,7 +4,7 @@ public class ForArrayEach {
         
             //Forma abreviada
         for(String aluno : alunos) {
-          System.out.println(aluno);
+          System.out.println("Nome do aluno é: " + aluno);
         }
     
     }
